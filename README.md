@@ -1,6 +1,6 @@
 # IntelliPrice 💻
 
-IntelliPrice is a machine learning-powered web application that predicts the price of a laptop based on its specifications. Built with Streamlit, it provides an intuitive interface for users to input laptop features and instantly receive an estimated price.
+IntelliPrice is a machine learning-powered web application that predicts the price of a laptop based on its specifications. Built with Streamlit, it provides an intuitive interface for users to input [...]
 
 ## Features
 
@@ -52,6 +52,16 @@ IntelliPrice is a machine learning-powered web application that predicts the pri
 
 3. **Access the app:**  
    Open [http://localhost:8501](http://localhost:8501) in your browser.
+
+## Docker Hub
+
+You can also pull the Docker image directly from Docker Hub:
+
+[![Docker Pulls](https://img.shields.io/docker/pulls/anujjainbatu/laptop-price-predictor)](https://hub.docker.com/r/anujjainbatu/laptop-price-predictor)
+
+```sh
+docker pull anujjainbatu/laptop-price-predictor
+```
 
 ## Project Structure
 

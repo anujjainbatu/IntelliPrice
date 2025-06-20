@@ -42,12 +42,12 @@ IntelliPrice is a machine learning-powered web application that predicts the pri
 
 1. **Build the Docker image:**
    ```sh
-   docker build -t intelliprice .
+   docker build -t your_username/intelliprice .
    ```
 
 2. **Run the Docker container:**
    ```sh
-   docker run -p 8501:8501 intelliprice
+   docker run -p 8501:8501 your_username/intelliprice
    ```
 
 3. **Access the app:**  
